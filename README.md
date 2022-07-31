@@ -2,6 +2,7 @@
 - 👀 I’m interested in Automation test/architecture/framework.
 New technologies in Automation for front-end UI , APIs ..
 - 🌱 I’m currently learning Cypress, which is a test automation framework based on javascript comes as node modules
+- 🌱 Starting exploring Python language which will be further used to understand machine learning
 - 📫 How to reach me ,
 mail id : cyriljohn21@gmail.com
 

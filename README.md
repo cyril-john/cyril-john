@@ -12,7 +12,7 @@ New technologies in Automation for front-end UI , APIs ..
 - 🌱 Using Matlab to solve algorithm of robot path planning,
 - 🌱 mTech Student with discipline in "Robotics and Mobolity System" at IIT-Jodhpur
 - 📫 How to reach me ,
-mail id : cyriljohn21@gmail.com
+mail id : cyriljohn21@gmail.com . 
 linkedIn Profile : https://www.linkedin.com/in/cyril-john-319b02a7/
 
 

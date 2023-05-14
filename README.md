@@ -2,7 +2,7 @@
 - Robotics Engineer
 - Currently working as an Automation Test Engineer with @Cognizant
 - Skilled in : Java, Selenium, TestNG, Cucucumber
-- expertise with using IDEs such as IntelliJ, eclipse
+- expertise with using IDEs such as IntelliJ, Eclipse, PyCharm
 - 👀 I’m interested in Automation test/architecture/framework.
 New technologies in Automation for front-end UI , APIs ..
 - 🌱 I have worked in Cypress, which is a test automation framework based on javascript comes as node modules

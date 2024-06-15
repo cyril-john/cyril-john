@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cyril-john
 - Robotics Engineer
-- Currently working as an Automation Test Engineer with @Cognizant
+- Currently working as an Automation Test Engineer with Cognizant
 - Skilled in : Java, Selenium, TestNG, Cucucumber
-- expertise with using IDEs such as IntelliJ, Eclipse, PyCharm
+- expertise with using IDEs such as IntelliJ, Eclipse, VSCode
 - 👀 I’m interested in Automation test/architecture/framework.
 New technologies in Automation for front-end UI , APIs ..
 - 🌱 I have worked in Cypress, which is a test automation framework based on javascript comes as node modules
@@ -14,6 +14,7 @@ New technologies in Automation for front-end UI , APIs ..
 - 📫 How to reach me ,
 mail id : cyriljohn21@gmail.com . 
 linkedIn Profile : https://www.linkedin.com/in/cyril-john-319b02a7/
+
 
 
 

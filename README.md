@@ -13,7 +13,7 @@ New technologies in Automation for front-end UI , APIs ..
 - 🌱 mTech Student with discipline in "Robotics and Mobolity System" at IIT-Jodhpur
 - 📫 How to reach me ,
 mail id : cyriljohn21@gmail.com . 
-linkedIn Profile : https://www.linkedin.com/in/cyril-john-319b02a7/
+linkedIn Profile : linkedin.com/in/cyril-arickathil
 
 
 

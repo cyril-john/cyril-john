@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyril-john
 - Robotics Engineer
 - Currently working as an Automation Test Engineer with Cognizant
-- Skilled in : Java, Selenium, TestNG, Cucucumber
+- Skilled in : Java, Selenium, TestNG, Cucucumber, Playwright
 - expertise with using IDEs such as IntelliJ, Eclipse, VSCode
 - 👀 I’m interested in Automation test/architecture/framework.
 New technologies in Automation for front-end UI , APIs ..
